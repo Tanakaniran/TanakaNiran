@@ -1,5 +1,5 @@
 # 💫 About Me:
-✨ Hi, I’m Tanaka Nirang<br>🎯 Interest: Fullstack Development<br>🚀 Goal: To grow within the modern JavaScript developer ecosystem<br>📊 Data Skills: Basic data visualization using Excel<br><br>💬 About Me:<br>I’m a college student and a web developer focused on building modern, responsive, and efficient web applications. I work within the JavaScript ecosystem and also have basic experience in data visualization using Excel. I enjoy creating practical and clean solutions through code.
+✨ Hi, I’m Tanaka Nirang<br>🎯 Interest: Fullstack Development<br>🚀 Goal: To grow within the modern JavaScript developer ecosystem<br>📊 Data Skills: Basic data visualization<br><br>💬 About Me:<br>I’m a college student focused on building modern, responsive, and efficient web applications. I work within the JavaScript ecosystem and enjoy creating practical and clean solutions through code.
 
 
 ## 🌐 Socials:
